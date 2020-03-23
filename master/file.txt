@@ -1,0 +1,42 @@
+
+ Directory of D:\Programs\nodejs\projects\ThirdLabNodeJS\master
+
+24.03.2020  00:08    <DIR>          .
+24.03.2020  00:08    <DIR>          ..
+24.03.2020  00:09               342 file.txt
+24.03.2020  00:08               582 main.js
+               2 File(s)            924 bytes
+               2 Dir(s)  409 955 557 376 bytes free
+ Volume in drive D has no label.
+ Volume Serial Number is D8C0-E335
+
+ Directory of D:\Programs\nodejs\projects\ThirdLabNodeJS\master
+
+24.03.2020  00:08    <DIR>          .
+24.03.2020  00:08    <DIR>          ..
+24.03.2020  00:09               342 file.txt
+24.03.2020  00:17               595 main.js
+               2 File(s)            937 bytes
+               2 Dir(s)  409 955 557 376 bytes free
+ Volume in drive D has no label.
+ Volume Serial Number is D8C0-E335
+
+ Directory of D:\Programs\nodejs\projects\ThirdLabNodeJS\master
+
+24.03.2020  00:08    <DIR>          .
+24.03.2020  00:08    <DIR>          ..
+24.03.2020  00:17               754 file.txt
+24.03.2020  00:17               595 main.js
+               2 File(s)          1 349 bytes
+               2 Dir(s)  409 955 553 280 bytes free
+ Volume in drive D has no label.
+ Volume Serial Number is D8C0-E335
+
+ Directory of D:\Programs\nodejs\projects\ThirdLabNodeJS\master
+
+24.03.2020  00:08    <DIR>          .
+24.03.2020  00:08    <DIR>          ..
+24.03.2020  00:18             1 167 file.txt
+24.03.2020  00:17               595 main.js
+               2 File(s)          1 762 bytes
+               2 Dir(s)  409 955 553 280 bytes free
