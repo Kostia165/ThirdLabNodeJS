@@ -16,5 +16,5 @@ var timer = setInterval(function(){
   child.on('close', (code) =>{
     console.log(`child process exited with code ${code}`);
   });
-}, 5000);
+}, 60000);
 
